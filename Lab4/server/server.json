@@ -1,0 +1,29 @@
+{
+    "Catalog 1": [
+        {"id": 1, "name": "item1.1", "shortname": "i1.1", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 1, "photo": "808000.jpg"},
+        {"id": 2, "name": "item1.2", "shortname": "i1.2", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 2, "photo": "808000.jpg"},
+        {"id": 3, "name": "item1.3", "shortname": "i1.3", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 3, "photo": "808000.jpg"},
+        {"id": 4, "name": "item1.4", "shortname": "i1.4", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 4, "photo": "808000.jpg"}
+    ],
+    "Catalog 2": [
+        {"id": 1, "name": "item2.1", "shortname": "i2.1", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 11, "photo": "800080.jpg"},
+        {"id": 2, "name": "item2.2", "shortname": "i2.2", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 22, "photo": "800080.jpg"},
+        {"id": 3, "name": "item2.3", "shortname": "i2.3", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 33, "photo": "800080.jpg"},
+        {"id": 4, "name": "item2.4", "shortname": "i2.4", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 44, "photo": "800080.jpg"},
+        {"id": 5, "name": "item2.5", "shortname": "i2.5", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 55, "photo": "800080.jpg"}
+    ],
+    "Catalog 3": [
+        {"id": 1, "name": "item3.1", "shortname": "i3.1", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 111, "photo": "FFA500.jpg"},
+        {"id": 2, "name": "item3.2", "shortname": "i3.2", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 222, "photo": "FFA500.jpg"},
+        {"id": 3, "name": "item3.3", "shortname": "i3.3", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 333, "photo": "FFA500.jpg"},
+        {"id": 4, "name": "item3.4", "shortname": "i3.4", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 444, "photo": "FFA500.jpg"},
+        {"id": 5, "name": "item3.5", "shortname": "i3.5", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 555, "photo": "FFA500.jpg"},
+        {"id": 6, "name": "item3.6", "shortname": "i3.6", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 666, "photo": "FFA500.jpg"}
+    ],
+    "Catalog 4": [
+        {"id": 1, "name": "item4.1", "shortname": "i4.1", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 1111, "photo": "008000.jpg"},
+        {"id": 2, "name": "item4.2", "shortname": "i4.2", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 2222, "photo": "008000.jpg"},
+        {"id": 3, "name": "item4.3", "shortname": "i4.3", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 3333, "photo": "008000.jpg"},
+        {"id": 4, "name": "item4.4", "shortname": "i4.4", "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit.", "price": 4444, "photo": "008000.jpg"}
+    ]
+}
